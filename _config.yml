@@ -1,0 +1,28 @@
+name: Freedom To Succeed
+favicon: null
+layout_spectrum: 0.051392009714618325
+typography_spectrum: 0.16368180327117443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9578069199342281
+  lightness: 0.8188544169533998
+  saturation: 0.07027138397097588
+  rhythmicContrast: 0.21216307114809752
+purpose: []
